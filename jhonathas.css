@@ -1,0 +1,24 @@
+body {
+display: flex;
+background: gray;
+}
+
+.imagem {
+ position: fixed;
+ top: 23vh;
+ left: 35vw;
+}
+
+img {
+ border-radius: 50%;
+ box-shadow: 0 0 22px black;
+ border: 2px solid white;
+}
+
+h2 {
+    position: fixed;
+    left: 45vw;
+    top: 85vh;
+    font-family: "Poppins";
+    color: white;
+}

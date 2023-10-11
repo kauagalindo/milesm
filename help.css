@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.texto_container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 43px;
+    position: fixed;
+    top: 8em;
+    font-family: "Poppins";
+}
